@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: mytest-springboot-rabbirmq
+  rabbitmq:
+    port: 5672
+    username: root
+    password: 961201
+    host: localhost
